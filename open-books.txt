@@ -1,0 +1,23 @@
+Abstract Algebra: Theory and Applications (by Judson)
+Abstract Algebra (by Reed)
+Elemetary Abstract Algebra (by Clark)
+An Introduction to Algebraic Combinatorics
+Lecture Notes on Algebraic Combinatorics
+Stacks Project
+Elements of Linear and Multilinear Algebra (by Erdman)
+Introduction to Arithmetic Groups
+Basic Category Theory (by Leinster)
+Counting Rocks! An Introduction to Combinatorics 
+A Term of Commutative Algebra
+Complex Analysis (by Reed)
+Fields and Galois Theory (by Milne)
+Functional Analysis and Operator Algebras (by Erdman)
+Group Theory (by Milne)
+Homotopy Type Theory: Univalent Foundations of Mathematics 
+Introduction to Lie Algebras and Their Representations (by Hasic)
+An Introduction to Lie Groups (by Hasic)
+Elementary Number Theory: Primes, Congruences, and Secrets
+A Companion to Real Analysis (by Erdman)
+Basic Analysis: Introduction to Real Analysis (volume 1)
+Basic Analysis: Introduction to Real Analysis (volume 2)
+Representations of Lie Groups (by Hasic)
